@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: "APMM - e-Jutra (Staff)",
+  title: "APMM - e-Jutra (High Level)",
   description: "Home page",
   htmlAttrs: {
     lang: "en",
