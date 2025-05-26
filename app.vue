@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: "corradUI - NuxtJS Admin Dashboard Template",
+  title: "APMM - e-Jutra (Staff)",
   description: "Home page",
   htmlAttrs: {
     lang: "en",
